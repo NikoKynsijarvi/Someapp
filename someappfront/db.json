@@ -1,0 +1,32 @@
+{
+  "julkaisut": [
+    {
+      "content": "uuusi",
+      "date": "2021-04-22T17:14:45.771Z",
+      "likes": 2,
+      "id": 11
+    },
+    {
+      "content": "uusi",
+      "date": "2021-04-21T10:39:03.761Z",
+      "likes": 2,
+      "id": 12,
+      "user": {
+        "username": "niktapky",
+        "name": "Niko Kynsijarvi",
+        "id": "60817e070ffea93e545e8bac"
+      }
+    },
+    {
+      "content": "uusi ",
+      "date": "2021-04-20T08:38:03.615Z",
+      "likes": 0,
+      "id": 13,
+      "user": {
+        "username": "niktapky",
+        "name": "Niko Kynsijarvi",
+        "id": "60817e070ffea93e545e8bac"
+      }
+    }
+  ]
+}

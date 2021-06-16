@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/julkaisut
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5pa3RhcGt5IiwiaWQiOiI2MDgyYzI5NmFlOTNmODI3MWNkMTVkMjUiLCJpYXQiOjE2MTkxODQ0NjEsImV4cCI6MTYxOTE4ODA2MX0.oRkHEIXsqYs5aKp4RZ4L9734BuJrX3NZJe2LNzY84zI
+
+{
+    "content": "Toinen Testi testi testi testi testi",
+    "likes": 0,
+    "userId": "60817e070ffea93e545e8bac"
+}

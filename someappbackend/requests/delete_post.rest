@@ -1,0 +1,1 @@
+DELETE http://localhost:3001/api/julkaisut/608289baa4540b3cb43b0961
